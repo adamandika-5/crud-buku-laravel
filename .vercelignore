@@ -1,2 +1,7 @@
 vendor
 node_modules
+.env
+tests
+.git
+*.log
+storage/logs
